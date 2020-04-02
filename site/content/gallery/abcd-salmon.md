@@ -1,6 +1,5 @@
 ---
 title: salmon
-image: >-
-  /src/img/gallery/grilled-salmon-fish-on-rectangular-black-ceramic-plate-842142.jpg
+image: /src/img/gallery/salmon.jpg
 ---
 
